@@ -1,0 +1,263 @@
+themes/PaperMod/.github/ISSUE_TEMPLATE/bug.yaml
+  s_07ac3e35c3a49d::t_2344d385a43b0f 1-112
+themes/PaperMod/.github/ISSUE_TEMPLATE/config.yml
+  s_07ac3e35c3a49d::t_37f8bcc2aa0e56 1-5
+themes/PaperMod/.github/ISSUE_TEMPLATE/enhancement.yaml
+  s_07ac3e35c3a49d::t_bfb3c6c07cf600 1-32
+themes/PaperMod/.github/PULL_REQUEST_TEMPLATE.md
+  s_07ac3e35c3a49d::t_9e68b42eab9fcf 1-44
+themes/PaperMod/.github/workflows/build-check.yml
+  s_07ac3e35c3a49d::t_ba5e64661ad46b 1-56
+themes/PaperMod/.github/workflows/gh-pages.yml
+  s_07ac3e35c3a49d::t_ba5043fee1bede 1-82
+themes/PaperMod/LICENSE
+  s_07ac3e35c3a49d::t_b11faa72524506 1-22
+themes/PaperMod/README.md
+  s_07ac3e35c3a49d::t_b3df51b581de89 1-93
+themes/PaperMod/assets/css/common/404.css
+  s_07ac3e35c3a49d::t_8fe653ac9cff80 1-11
+themes/PaperMod/assets/css/common/archive.css
+  s_07ac3e35c3a49d::t_5a44519af8948f 1-44
+themes/PaperMod/assets/css/common/footer.css
+  s_07ac3e35c3a49d::t_788840e9a0f4a3 1-56
+themes/PaperMod/assets/css/common/header.css
+  s_07ac3e35c3a49d::t_261116aba5b0b8 1-101
+themes/PaperMod/assets/css/common/main.css
+  s_07ac3e35c3a49d::t_fcf84012481f44 1-66
+themes/PaperMod/assets/css/common/md-content.css
+  s_07ac3e35c3a49d::t_6fbbae19d9deae 1-253
+themes/PaperMod/assets/css/common/post-entry.css
+  s_07ac3e35c3a49d::t_7b056d3c0c1c2c 1-129
+themes/PaperMod/assets/css/common/post-single.css
+  s_07ac3e35c3a49d::t_fb5418f0218a46 1-215
+themes/PaperMod/assets/css/common/profile-mode.css
+  s_07ac3e35c3a49d::t_7a02616dfd65fd 1-34
+themes/PaperMod/assets/css/common/search.css
+  s_07ac3e35c3a49d::t_103e5219e56a87 1-41
+themes/PaperMod/assets/css/common/terms.css
+  s_07ac3e35c3a49d::t_b7398939f9c672 1-19
+themes/PaperMod/assets/css/core/license.css
+  s_07ac3e35c3a49d::t_7fd1f0b5e9f348 1-6
+themes/PaperMod/assets/css/core/reset.css
+  s_07ac3e35c3a49d::t_c3105772217a42 1-118
+themes/PaperMod/assets/css/core/theme-vars.css
+  s_07ac3e35c3a49d::t_34a1467c612cd5 1-40
+themes/PaperMod/assets/css/core/zmedia.css
+  s_07ac3e35c3a49d::t_df11d28255c10d 1-55
+themes/PaperMod/assets/css/extended/blank.css
+  s_07ac3e35c3a49d::t_dd84e7b7eab252 1-5
+themes/PaperMod/assets/css/includes/chroma-mod.css
+  s_07ac3e35c3a49d::t_7a57d52dbbbdba 1-24
+themes/PaperMod/assets/css/includes/chroma-styles.css
+  s_07ac3e35c3a49d::t_70b2c480245acc 1-86
+themes/PaperMod/assets/js/fastsearch.js
+  s_07ac3e35c3a49d::t_91814c303d0a2e 1-194
+themes/PaperMod/assets/js/fuse.basic.min.js
+  s_07ac3e35c3a49d::t_f1fa8232c1539d 1-9
+themes/PaperMod/assets/js/license.js
+  s_07ac3e35c3a49d::t_b7ba56b9c7e883 1-6
+themes/PaperMod/go.mod
+  s_07ac3e35c3a49d::t_e7ce1f45f84763 1-3
+themes/PaperMod/i18n/ar.yaml
+  s_07ac3e35c3a49d::t_a2795f95e8a8f7 1-28
+themes/PaperMod/i18n/be.yaml
+  s_07ac3e35c3a49d::t_56a65707c4b25c 1-39
+themes/PaperMod/i18n/bg.yaml
+  s_07ac3e35c3a49d::t_9ecb207fad3b78 1-16
+themes/PaperMod/i18n/bn.yaml
+  s_07ac3e35c3a49d::t_f1e6f1fd486fcd 1-33
+themes/PaperMod/i18n/ca.yaml
+  s_07ac3e35c3a49d::t_ab25f07dc4cf39 1-33
+themes/PaperMod/i18n/ckb.yaml
+  s_07ac3e35c3a49d::t_e55d4d9a0517ad 1-25
+themes/PaperMod/i18n/cs.yaml
+  s_07ac3e35c3a49d::t_3fca2958da296f 1-33
+themes/PaperMod/i18n/da.yaml
+  s_07ac3e35c3a49d::t_707f58a713e140 1-28
+themes/PaperMod/i18n/de.yaml
+  s_07ac3e35c3a49d::t_1f82a02a4d5516 1-33
+themes/PaperMod/i18n/el.yaml
+  s_07ac3e35c3a49d::t_e1be965a88f00e 1-33
+themes/PaperMod/i18n/en.yaml
+  s_07ac3e35c3a49d::t_d11ecef8cd679c 1-33
+themes/PaperMod/i18n/eo.yaml
+  s_07ac3e35c3a49d::t_da1d25d5d11ff2 1-25
+themes/PaperMod/i18n/es.yaml
+  s_07ac3e35c3a49d::t_ccadfc0a74d4f4 1-33
+themes/PaperMod/i18n/fa.yaml
+  s_07ac3e35c3a49d::t_c84166a93c1524 1-28
+themes/PaperMod/i18n/fi.yaml
+  s_07ac3e35c3a49d::t_473d4c96aa3588 1-33
+themes/PaperMod/i18n/fr.yaml
+  s_07ac3e35c3a49d::t_0d9cd64339a500 1-33
+themes/PaperMod/i18n/he.yaml
+  s_07ac3e35c3a49d::t_bbf3e8a1711d02 1-33
+themes/PaperMod/i18n/hi.yaml
+  s_07ac3e35c3a49d::t_83d89ede7b7e6c 1-19
+themes/PaperMod/i18n/hr.yaml
+  s_07ac3e35c3a49d::t_49a60236ca8098 1-33
+themes/PaperMod/i18n/hu.yaml
+  s_07ac3e35c3a49d::t_1361b36d55bcdb 1-16
+themes/PaperMod/i18n/id.yaml
+  s_07ac3e35c3a49d::t_1d6c9533b6171b 1-33
+themes/PaperMod/i18n/it.yaml
+  s_07ac3e35c3a49d::t_bcced0d5c2f5ed 1-33
+themes/PaperMod/i18n/ja.yaml
+  s_07ac3e35c3a49d::t_297d73c7166156 1-33
+themes/PaperMod/i18n/ko.yaml
+  s_07ac3e35c3a49d::t_57d91ccda0b08f 1-33
+themes/PaperMod/i18n/ku.yaml
+  s_07ac3e35c3a49d::t_24d3b76235c9ee 1-25
+themes/PaperMod/i18n/mn.yaml
+  s_07ac3e35c3a49d::t_6facd8decd9651 1-25
+themes/PaperMod/i18n/ms.yaml
+  s_07ac3e35c3a49d::t_0cfecd8655581b 1-28
+themes/PaperMod/i18n/nl.yaml
+  s_07ac3e35c3a49d::t_6c9191a1902852 1-33
+themes/PaperMod/i18n/no.yaml
+  s_07ac3e35c3a49d::t_910779789d9b05 1-33
+themes/PaperMod/i18n/oc.yaml
+  s_07ac3e35c3a49d::t_605381af668b49 1-33
+themes/PaperMod/i18n/pa.yaml
+  s_07ac3e35c3a49d::t_abe3f0891bba0a 1-33
+themes/PaperMod/i18n/pl.yaml
+  s_07ac3e35c3a49d::t_9d2dd76df9ba4b 1-33
+themes/PaperMod/i18n/pnb.yaml
+  s_07ac3e35c3a49d::t_031c06dc2a8856 1-33
+themes/PaperMod/i18n/pt.yaml
+  s_07ac3e35c3a49d::t_aa3f80efb5c149 1-33
+themes/PaperMod/i18n/ro.yaml
+  s_07ac3e35c3a49d::t_35078bde9f57b8 1-33
+themes/PaperMod/i18n/ru.yaml
+  s_07ac3e35c3a49d::t_b2194fd8fd6308 1-39
+themes/PaperMod/i18n/sk.yaml
+  s_07ac3e35c3a49d::t_6589af57c40fcc 1-33
+themes/PaperMod/i18n/sv.yaml
+  s_07ac3e35c3a49d::t_304428a6ff6a80 1-28
+themes/PaperMod/i18n/sw.yaml
+  s_07ac3e35c3a49d::t_cda385608caf68 1-33
+themes/PaperMod/i18n/th.yaml
+  s_07ac3e35c3a49d::t_a9927f44dd3cf0 1-33
+themes/PaperMod/i18n/tr.yaml
+  s_07ac3e35c3a49d::t_bf3b15b725d948 1-33
+themes/PaperMod/i18n/uk.yaml
+  s_07ac3e35c3a49d::t_5b55e46e0d2944 1-25
+themes/PaperMod/i18n/uz.yaml
+  s_07ac3e35c3a49d::t_311b7af05135bc 1-20
+themes/PaperMod/i18n/vi.yaml
+  s_07ac3e35c3a49d::t_416007f044e6c4 1-33
+themes/PaperMod/i18n/zh-tw.yaml
+  s_07ac3e35c3a49d::t_7ee35d33fd7641 1-33
+themes/PaperMod/i18n/zh.yaml
+  s_07ac3e35c3a49d::t_5b0db08a70dfe1 1-33
+themes/PaperMod/layouts/404.html
+  s_07ac3e35c3a49d::t_2e893a2c0e0f1f 1-3
+themes/PaperMod/layouts/_markup/render-image.html
+  s_07ac3e35c3a49d::t_68096ab9bc56f1 1-22
+themes/PaperMod/layouts/_partials/anchored_headings.html
+  s_07ac3e35c3a49d::t_0320df009e9f64 1-6
+themes/PaperMod/layouts/_partials/author.html
+  s_07ac3e35c3a49d::t_83e7bbaca156e5 1-10
+themes/PaperMod/layouts/_partials/breadcrumbs.html
+  s_07ac3e35c3a49d::t_981f591caab06c 1-20
+themes/PaperMod/layouts/_partials/comments.html
+  s_07ac3e35c3a49d::t_e284dc719b9d68 1-3
+themes/PaperMod/layouts/_partials/cover.html
+  s_07ac3e35c3a49d::t_fb5658a9aba1bc 1-65
+themes/PaperMod/layouts/_partials/edit_post.html
+  s_07ac3e35c3a49d::t_e4605cf17f7ecc 1-20
+themes/PaperMod/layouts/_partials/extend_footer.html
+  s_07ac3e35c3a49d::t_fa5e702d83cbca 1-3
+themes/PaperMod/layouts/_partials/extend_head.html
+  s_07ac3e35c3a49d::t_6884bf3561d94a 1-4
+themes/PaperMod/layouts/_partials/extend_post_content.html
+  s_07ac3e35c3a49d::t_aeac1ddb3f3d61 1-4
+themes/PaperMod/layouts/_partials/footer.html
+  s_07ac3e35c3a49d::t_fc5cb985d7dbbb 1-158
+themes/PaperMod/layouts/_partials/head.html
+  s_07ac3e35c3a49d::t_84738d5ee2fac7 1-194
+themes/PaperMod/layouts/_partials/header.html
+  s_07ac3e35c3a49d::t_7353f494a486f7 1-114
+themes/PaperMod/layouts/_partials/home_info.html
+  s_07ac3e35c3a49d::t_67742c7f050e09 1-14
+themes/PaperMod/layouts/_partials/index_profile.html
+  s_07ac3e35c3a49d::t_0356708f84951c 1-58
+themes/PaperMod/layouts/_partials/post_canonical.html
+  s_07ac3e35c3a49d::t_f1baf725f41625 1-9
+themes/PaperMod/layouts/_partials/post_meta.html
+  s_07ac3e35c3a49d::t_462705279a0817 1-25
+themes/PaperMod/layouts/_partials/post_nav_links.html
+  s_07ac3e35c3a49d::t_e9f02b6cd8b59b 1-17
+themes/PaperMod/layouts/_partials/share_icons.html
+  s_07ac3e35c3a49d::t_3bbadf0b0f7b52 1-95
+themes/PaperMod/layouts/_partials/social_icons.html
+  s_07ac3e35c3a49d::t_8b38ec8d2c6e81 1-8
+themes/PaperMod/layouts/_partials/svg.html
+  s_07ac3e35c3a49d::t_adec2a6bc55ce0 1-1017
+themes/PaperMod/layouts/_partials/templates/_funcs/get-page-images.html
+  s_07ac3e35c3a49d::t_3cbbdb4c855b1b 1-47
+themes/PaperMod/layouts/_partials/templates/opengraph.html
+  s_07ac3e35c3a49d::t_17e83e94bba4ed 1-86
+themes/PaperMod/layouts/_partials/templates/schema_json.html
+  s_07ac3e35c3a49d::t_25fa29eb172441 1-128
+themes/PaperMod/layouts/_partials/templates/twitter_cards.html
+  s_07ac3e35c3a49d::t_98905758e911e1 1-37
+themes/PaperMod/layouts/_partials/toc.html
+  s_07ac3e35c3a49d::t_45fc564fdefc3d 1-95
+themes/PaperMod/layouts/_partials/translation_list.html
+  s_07ac3e35c3a49d::t_ba6b0682f48ac3 1-21
+themes/PaperMod/layouts/_shortcodes/audio.html
+  s_07ac3e35c3a49d::t_9a593c3dd3016f 1-2
+themes/PaperMod/layouts/_shortcodes/collapse.html
+  s_07ac3e35c3a49d::t_ac48722701c513 1-8
+themes/PaperMod/layouts/_shortcodes/figure.html
+  s_07ac3e35c3a49d::t_739d3c51d88ea2 1-31
+themes/PaperMod/layouts/_shortcodes/inTextImg.html
+  s_07ac3e35c3a49d::t_16fe14d8ffee5f 1-5
+themes/PaperMod/layouts/_shortcodes/ltr.html
+  s_07ac3e35c3a49d::t_01cb134a38756c 1-15
+themes/PaperMod/layouts/_shortcodes/rawhtml.html
+  s_07ac3e35c3a49d::t_3aaee5ffe8afcf 1-2
+themes/PaperMod/layouts/_shortcodes/rtl.html
+  s_07ac3e35c3a49d::t_a2ccb8fb8a12bf 1-15
+themes/PaperMod/layouts/_shortcodes/video.html
+  s_07ac3e35c3a49d::t_8932b50fd48e48 1-2
+themes/PaperMod/layouts/archives.html
+  s_07ac3e35c3a49d::t_32fa3b43f6151f 1-83
+themes/PaperMod/layouts/baseof.html
+  s_07ac3e35c3a49d::t_768c55002d74e5 1-31
+themes/PaperMod/layouts/index.json
+  s_07ac3e35c3a49d::t_97151cfc2e9c1a 1-7
+themes/PaperMod/layouts/list.html
+  s_07ac3e35c3a49d::t_6d2c754968fa0e 1-121
+themes/PaperMod/layouts/llms.txt
+  s_07ac3e35c3a49d::t_10c94ec4d9c3c7 1-41
+themes/PaperMod/layouts/robots.txt
+  s_07ac3e35c3a49d::t_569c592e47f223 1-7
+themes/PaperMod/layouts/rss.xml
+  s_07ac3e35c3a49d::t_9239afcda4b956 1-72
+themes/PaperMod/layouts/search.html
+  s_07ac3e35c3a49d::t_3d10573f912ca8 1-29
+themes/PaperMod/layouts/single.html
+  s_07ac3e35c3a49d::t_f522aa0b589c92 1-67
+themes/PaperMod/layouts/taxonomy.html
+  s_07ac3e35c3a49d::t_83aad57cb2e89d 1-27
+themes/PaperMod/theme.toml
+  s_07ac3e35c3a49d::t_8ffc6c18dccf09 1-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "acc01644b1f26448db67398f326bccfd1406e0d4",
+  "prompts": {},
+  "sessions": {
+    "s_07ac3e35c3a49d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cbab1a27-76ce-4f52-8557-1d12250c536c",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "ALIAS Production <296103861+alias-prod@users.noreply.github.com>"
+    }
+  }
+}

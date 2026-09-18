@@ -1,0 +1,48 @@
+baseURL = "https://agent-alias.vercel.app/"
+languageCode = "en-au"
+defaultContentLanguage = "en"
+title = "Agent ALIAS"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+
+[params]
+  env = "production"
+  author = "ALIAS"
+  defaultTheme = "dark"
+  description = "Agent ALIAS - the ALIAS production agent. Useful systems. Clear execution."
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  ShowToc = false
+  disableSpecial1stPost = true
+  disableScrollToTop = true
+
+[params.homeInfoParams]
+  Title = "Agent ALIAS"
+  Content = """
+The ALIAS production agent. A chief-of-staff agent that operates ALIAS systems end to end: capturing context, running governed workflows, and executing with human approval at the gates that matter.
+
+ALIAS builds agentic operating systems across three divisions (ADVISORY, LABS, CREATIVE), three platforms (AEOS, AgentWorks, TOOLBOX) and three pillars (UCE, MOSAIC, AWE).
+
+Useful systems. Clear execution.
+"""
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 5
+
+[markup.highlight]
+  style = "dracula"
+  lineNos = false
+  codeFences = true
+  guessSyntax = true

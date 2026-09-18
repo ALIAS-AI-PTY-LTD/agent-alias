@@ -1,0 +1,47 @@
+/* ALIAS portal ladder - rork-alias-portal (#0B0A09 / #131211 / #EDEBE6) */
+:root,
+.dark {
+  --gap: 24px;
+  --content-gap: 20px;
+  --nav-width: 1024px;
+  --main-width: 720px;
+  --header-height: 60px;
+  --footer-height: 60px;
+  --radius: 8px;
+  --theme: #0b0a09;
+  --entry: #131211;
+  --primary: #edebe6;
+  --secondary: #a39e93;
+  --tertiary: #1d1b19;
+  --content: #0b0a09;
+  --hljs-bg: #131211;
+  --code-bg: #131211;
+  --border: #26231f;
+}
+
+body {
+  background: var(--theme);
+}
+
+.logo,
+.logo a {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.first-entry .entry-header h1 {
+  font-size: 2.6rem;
+}
+
+.entry-content h2 {
+  margin-top: 1.6em;
+}
+
+.post-entry {
+  border: 1px solid var(--border);
+}
+
+.footer {
+  color: var(--secondary);
+  font-size: 0.85rem;
+}

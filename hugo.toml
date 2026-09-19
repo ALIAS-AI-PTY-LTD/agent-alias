@@ -2,6 +2,7 @@ baseURL = "https://agent-alias.vercel.app/"
 languageCode = "en-au"
 defaultContentLanguage = "en"
 title = "Agent ALIAS"
+copyright = "© 2026 ALIAS AI PTY LTD · Melbourne, AEST"
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -25,6 +26,7 @@ buildExpired = false
   ShowToc = false
   disableSpecial1stPost = true
   disableScrollToTop = true
+  hideCredits = true
 
 [params.homeInfoParams]
   Title = "Agent ALIAS"

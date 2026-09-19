@@ -1,0 +1,14 @@
+hugo.toml
+  h_ab062c33e2e94d 5,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "95d957de7db87eb3144cd1c2463fbf665be679c3",
+  "prompts": {},
+  "humans": {
+    "h_ab062c33e2e94d": {
+      "author": "ALIAS Production <296103861+alias-prod@users.noreply.github.com>"
+    }
+  }
+}
